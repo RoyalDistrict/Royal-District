@@ -67,7 +67,7 @@ main {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 20px;
-    background-color: #28a745; /* Green color */
+    background-color: #0000FF; /* Blue color */
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -75,7 +75,7 @@ main {
 }
 
 .shop-button:hover {
-    background-color: #218838;
+    background-color: #0000FF;
 }
 
 .about-us {
